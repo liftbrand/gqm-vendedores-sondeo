@@ -2,7 +2,9 @@
 
 Dashboard resumen del sondeo digital realizado con **Sales Machine** a los vendedores de Grupo Quality Motors (52 respuestas, 19–20 de octubre de 2026).
 
-La versión publicada aquí es **anónima**: muestra resultados agregados y comentarios sin nombres.
+Tres pestañas: **Resumen** (indicadores y gráficos), **Por vendedor** (tabla ordenable con las respuestas de cada vendedor) y **Comentarios** (respuestas abiertas, filtrables por tema y pregunta).
+
+> Este repositorio es público e incluye nombres de vendedores con sus respuestas.
 
 ## Contenido
 
