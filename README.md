@@ -2,7 +2,7 @@
 
 Dashboard resumen del sondeo digital realizado con **Sales Machine** a los vendedores de Grupo Quality Motors (59 respuestas, 19–21 de octubre de 2026; actualizado desde la hoja de respuestas el 21 de octubre).
 
-Tres pestañas: **Resumen** (indicadores y gráficos), **Por vendedor** (tabla ordenable con las respuestas de cada vendedor) y **Comentarios** (respuestas abiertas, filtrables por tema y pregunta).
+Cuatro pestañas: **Resumen** (indicadores y gráficos), **Por vendedor** (tabla ordenable con las respuestas de cada vendedor) **Comentarios** (respuestas abiertas, filtrables por tema y pregunta) y **S.O.S. Vendedores** (listas de vendedores a convocar a entrenamientos de Bitrix24).
 
 > Este repositorio es público e incluye nombres de vendedores con sus respuestas.
 
