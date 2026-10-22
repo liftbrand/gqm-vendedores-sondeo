@@ -1,6 +1,6 @@
 # Sondeo Vendedores GQM — Octubre 2026
 
-Dashboard resumen del sondeo digital realizado con **Sales Machine** a los vendedores de Grupo Quality Motors (59 respuestas, 19–21 de octubre de 2026; actualizado desde la hoja de respuestas el 21 de octubre).
+Dashboard resumen del sondeo digital realizado con **Sales Machine** a los vendedores de Grupo Quality Motors (61 respuestas, 19–21 de octubre de 2026; actualizado desde la hoja de respuestas el 22 de octubre).
 
 Cuatro pestañas: **Resumen** (indicadores y gráficos), **Por vendedor** (tabla ordenable con las respuestas de cada vendedor), **Comentarios** (respuestas abiertas, filtrables por tema y pregunta) y **S.O.S. Vendedores** (listas de vendedores a convocar a entrenamientos de Bitrix24).
 
